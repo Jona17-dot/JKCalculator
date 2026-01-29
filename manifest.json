@@ -1,6 +1,6 @@
 {
   "name": "JK Calculator",
-  "short_name": "Calculator",
+  "short_name": "JK Calculator",
   "description": "A simple calculator made from SkyTek Softwares",
   "start_url": "./index.html",
   "display": "standalone",
